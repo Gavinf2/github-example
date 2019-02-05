@@ -14,6 +14,7 @@
 		8B436ECB2204D44B0039F661 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B436EC92204D44B0039F661 /* LaunchScreen.storyboard */; };
 		8B436ED62204D44B0039F661 /* github_exampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436ED52204D44B0039F661 /* github_exampleTests.swift */; };
 		8B436EE12204D44B0039F661 /* github_exampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B436EE02204D44B0039F661 /* github_exampleUITests.swift */; };
+		8BD03CE3220A229C003B2568 /* giphy-2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8BD03CE2220A229C003B2568 /* giphy-2.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8B436EDC2204D44B0039F661 /* github exampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "github exampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B436EE02204D44B0039F661 /* github_exampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = github_exampleUITests.swift; sourceTree = "<group>"; };
 		8B436EE22204D44B0039F661 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BD03CE2220A229C003B2568 /* giphy-2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "giphy-2.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				8B436EC02204D4490039F661 /* AppDelegate.swift */,
 				8B436EC22204D4490039F661 /* ViewController.swift */,
 				8B436EC42204D4490039F661 /* Main.storyboard */,
+				8BD03CE2220A229C003B2568 /* giphy-2.gif */,
 				8B436EC72204D44B0039F661 /* Assets.xcassets */,
 				8B436EC92204D44B0039F661 /* LaunchScreen.storyboard */,
 				8B436ECC2204D44B0039F661 /* Info.plist */,
@@ -232,6 +235,7 @@
 				8B436ECB2204D44B0039F661 /* LaunchScreen.storyboard in Resources */,
 				8B436EC82204D44B0039F661 /* Assets.xcassets in Resources */,
 				8B436EC62204D4490039F661 /* Main.storyboard in Resources */,
+				8BD03CE3220A229C003B2568 /* giphy-2.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
